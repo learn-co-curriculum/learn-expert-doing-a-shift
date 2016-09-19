@@ -4,7 +4,7 @@
 ## Scheduling
 
 - The schedule for learn experts is sent out every Wednesday for the following week. If you need any days off, book them *before* Wednesday the week before.
-- As soon as you get your shifts, check them out and DM Peter if they're not OK Wednesday night or Thursday morning
+- As soon as you get your shifts, check them out and DM Avidor if they're not OK Wednesday night or Thursday morning
 - Your shifts may get moved around Wednesday night/Thursday morning to accomodate others, but they should be fixed by noon on Thursday (all times ET)
 
 
@@ -28,7 +28,7 @@
 learn-experts: this is where we can ask questions and chat as a group. I encourage all of us to
 use this channel in lieu of direct messages so we have a good sense of community and we can all learn from one another’s questions and answers
 
-escalation: this is where you can get help from the Labs team to answer questions you are unsure of using `@here"` to get everyone's attention. 
+escalation: this is where you can get help from the Labs team to answer questions you are unsure of using `@here` to get everyone's attention. Using this channel get's the dev teams attention and it can distract them from the work they're doing. We'll talk more later about what should go in here and what should not.
 
 ## Ending a shift
 
@@ -37,6 +37,6 @@ escalation: this is where you can get help from the Labs team to answer question
 - If there isn't an expert taking over from you, let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on)
 - Please fill out the end of each shift form: https://docs.google.com/a/flatironschool.com/forms/d/1lmIrLt4s3WFILxcNunUCXRwSNICfJWxQdTaDtUvizro/viewform. Any time in the last half hour is good - don't stay late to do it, but make sure it gets done!
 - Post `@here: out` into the learn-experts slack channel within Flatiron Staff
-- If you noticed anything in this doc that isn't useful or that's wrong or missing, please submit a PR at the end of your shift and @ mention ``@avidor`.
+- If you noticed anything in this doc that isn't useful or that's wrong or missing, please submit a PR at the end of your shift and @ mention `@avidor`.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Learn Expert Doing a Shift </a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
