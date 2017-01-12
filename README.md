@@ -7,6 +7,7 @@
 - The schedule for learn experts is sent out every Wednesday for the following week. If you need any days off, book them *before* Wednesday the week before.
 - As soon as you get your shifts, check them out and DM Avidor if they're not OK Wednesday night or Thursday morning
 - Your shifts may get moved around Wednesday night/Thursday morning to accommodate others, but they should be fixed by noon on Thursday (all times ET)
+- If the week is already schedule and something comes up where you need to swap a shift, please refer to the [How To Swap A Shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-swap-a-shift.md) doc in the learn-support repo. 
 
 ## Starting a shift
 
