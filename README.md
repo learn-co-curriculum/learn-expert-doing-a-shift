@@ -13,6 +13,7 @@
 - Go into Flatiron Staff Slack - #learn-experts
 - Type `@here: in` to let people know you're on and ready for your shift
 - Go to the [Learn Expert Chat](https://learn.co/expert-chat) window. It shows you all questions for the batches that we support. If a question is in expert chat, we support that batch.
+- Optional: I would highly recommend installing [Nick's](https://github.com/NStephenson) Learn Expert [Chrome extension](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc). It allows you to track the messages that you're currently working on _and_ get better notifications when a question ends up in Requires Actions.
 - Ask previous shift (if there was one) how things went and to post a list of threads they're in the middle of and want to hand over
 - Introduce yourself on those threads and read the thread history so you're up to speed with the issue (let's not make students repeat themselves)
 - You'll see there are three categories of questions - requires action, active questions and inactive questions:
