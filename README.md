@@ -26,7 +26,7 @@ escalation channel: You should not need to post directly into this channel. If y
 
 ## One on one support
 
-The one on one support model is based around giving each student a small but of your time, but all of your attention. We accomplish this by having one learn expert on the shift act as dispatcher and the rest providing the one on one support. 
+The one on one support model is based around giving each student a small bit of your time, but all of your attention. We accomplish this by having one learn expert on the shift act as dispatcher and the rest providing the one on one support. 
 
 - Go into Flatiron Staff Slack - #learn-experts
 - Type `@here: in` to let people know you're on and ready for your shift
@@ -108,3 +108,5 @@ If possible, let's try and find _some_ way to synchronously work with the studen
 - If there isn't an expert taking over from you, let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on).
 - Please **fill out this [form](https://docs.google.com/a/flatironschool.com/forms/d/1lmIrLt4s3WFILxcNunUCXRwSNICfJWxQdTaDtUvizro/viewform)**.  Any time in the last half hour is good - don't stay late to do it, but make sure it gets done!
 - Post `@here: out` into the learn-experts slack channel within Flatiron Staff
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
