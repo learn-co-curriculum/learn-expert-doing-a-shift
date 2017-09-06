@@ -4,9 +4,9 @@
 
 - We use WhenIWork for scheduling (you should already have gotten an email about signing up). You can use this site to set your preferred hours and request time off.
 - The schedule for learn experts is sent out every Wednesday for the following week. If you need any days off, book them *before* Wednesday the week before.
-- As soon as you get your shifts, check them out and DM Avidor if they're not OK Wednesday night or Thursday morning
+- As soon as you get your shifts, check them out and DM Ruth if they're not OK Wednesday night or Thursday morning
 - Your shifts may get moved around Wednesday night/Thursday morning to accommodate others, but they should be fixed by noon on Thursday (all times ET)
-- If the week is already schedule and something comes up where you need to swap a shift, please refer to the [How To Swap A Shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-swap-a-shift.md) doc in the learn-support repo. 
+- If the week is already scheduled and something comes up where you need to swap a shift, please refer to the [How To Swap A Shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-swap-a-shift.md) doc in the learn-support repo. 
 
 ## Shift Types
 
@@ -15,7 +15,7 @@ There are two different types of shifts we are currently running:
 - [One on one support shift](#one-on-one-support-shift) - One expert acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do ~15min screen shares to the next available expert. 
 - [Standard shift](#standard-shift) - All learn experts pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
 
-We do standard shifts on weekends (because we don't have enough people to do one on one) and one on one support on weekends. 
+We do standard shifts on weekends (because we don't have enough people to do one on one) and one on one support on weekdays. 
 
 
 ## Slack - Flatiron Staff
