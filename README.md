@@ -3,9 +3,9 @@
 ## Scheduling
 
 - We use WhenIWork for scheduling (you should already have gotten an email about signing up). You can use this site to set your preferred hours and request time off.
-- The schedule for learn experts is sent out every Wednesday for the following week. If you need any days off, book them *before* Wednesday the week before.
-- As soon as you get your shifts, check them out and DM Avidor if they're not OK Wednesday night or Thursday morning
-- Your shifts may get moved around Wednesday night/Thursday morning to accommodate others, but they should be fixed by noon on Thursday (all times ET)
+- The schedule for learn experts is sent out every Sunday for the following week. If you need any days off, book them *before* Friday.
+- As soon as you get your shifts, check them out and DM Ruth if they're not OK Sunday night or Morning morning
+- Your shifts may get moved around till Tuesday morning to accommodate others, but they should be fixed by EOD Tuesday (all times ET)
 - If the week is already schedule and something comes up where you need to swap a shift, please refer to the [How To Swap A Shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-swap-a-shift.md) doc in the learn-support repo. 
 
 ## Shift Types
@@ -82,7 +82,7 @@ If possible, let's try and find _some_ way to synchronously work with the studen
 
 - Welcome the people taking over your shift (if any) in the #learn-experts Slack channel.
 - If there isn't an expert taking over from you, let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on).
-- Please **fill out this [form](https://docs.google.com/a/flatironschool.com/forms/d/1lmIrLt4s3WFILxcNunUCXRwSNICfJWxQdTaDtUvizro/viewform)**.  Any time in the last half hour is good - don't stay late to do it, but make sure it gets done!
 - Post `@qbot out` into the learn-experts slack channel within Flatiron Staff
+- Please go on WorkDay and add your shift. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
