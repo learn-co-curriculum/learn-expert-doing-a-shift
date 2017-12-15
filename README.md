@@ -2,21 +2,21 @@
 
 ## Scheduling
 
+- All times for scheduling are in EST time.
 - We use WhenIWork for scheduling (you should already have gotten an email about signing up). You can use this site to set your preferred hours and request time off.
-- The schedule for learn experts is sent out every Sunday for the following week. If you need any days off, book them *before* Friday.
-- As soon as you get your shifts, check them out and DM Ruth if they're not OK Sunday night or Morning morning
-- Your shifts may get moved around till Tuesday morning to accommodate others, but they should be fixed by EOD Tuesday (all times ET)
-- If the week is already schedule and something comes up where you need to swap a shift, please refer to the [How To Swap A Shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-swap-a-shift.md) doc in the learn-support repo. 
+- The schedule for Technical Coachs is sent out every Sunday for the following week. If you need any days off, book them *before* Friday.
+- As soon as you get your shifts, check them out and DM Ruth if they're not OK by Sunday night or Monday morning
+- Your shifts may get moved around till Tuesday morning to accommodate others, but they should be fixed by EOD Tuesday
+- If the week is already scheduled and something comes up where you need to swap a shift, please refer to the [How To Swap A Shift](https://github.com/flatiron-labs/learn-support/blob/master/how-to-swap-a-shift.md) doc in the learn-support repo. 
 
 ## Shift Types
 
 There are two different types of shifts we are currently running:
 
-- [One on one support shift](#one-on-one-support-shift) - One expert acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do ~15min screen shares to the next available expert. 
-- [Standard shift](#standard-shift) - All learn experts pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
+- [One on one support shift](#one-on-one-support) - One expert acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do 20min screen shares to the next available expert. 
+- [Standard shift](#standard-shift) - All Technical Coachs pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
 
-We do standard shifts on weekends (because we don't have enough people to do one on one) and one on one support on weekends. 
-
+We do standard shifts occasionally on holidays (because we don't have enough people to do one on one).
 
 ## Slack - Flatiron Staff
 
@@ -26,17 +26,17 @@ escalation channel: You should not need to post directly into this channel. If y
 
 ## One on one support
 
-The one on one support model is based around giving each student a small bit of your time, but all of your attention. We accomplish this by having one learn expert on the shift act as dispatcher and the rest providing the one on one support. 
+The one on one support model is based around giving each student a small bit of your time, but all of your attention. We accomplish this by having one Technical Coach on the shift act as dispatcher and the rest providing the one on one support. 
 
 - Go into Flatiron Staff Slack - #learn-experts
 - Type `@qbot in <role>` to log into your shift. You can either log in as `sync` or `dispatch`. If you're just starting out, you'll do `sync` and as you learn, you can hop on dispatch. 
-- Go to the [Learn Expert Chat](https://learn.co/expert-chat) window. It shows you all questions for the batches that we support. If a question is in expert chat, we support that batch.
+- Go to the [Expert Chat](https://learn.co/expert-chat) window. It shows you all questions for the batches that we support. If a question is in expert chat, we support that batch.
 
 ### Dispatcher
 
 If this is the first shift of the day, the experts on will have to decide between them who the dispatcher is. From there on out, the dispatcher is in charge of handing this roll off either sometime during their shift or at the end of their shift. 
 
-The Learn Expert on dispatch greets all incoming chats and gets some preliminary information on them. 
+The Technical Coach on dispatch greets all incoming chats and gets some preliminary information on them. 
 
 If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the Help Center, link them to the doc before linking the student to an expert.
 
@@ -66,8 +66,8 @@ If possible, let's try and find _some_ way to synchronously work with the studen
 
 - Go into Flatiron Staff Slack - #learn-experts
 - Type `@qbot in sync` to let people know you're on and ready for your shift
-- Go to the [Learn Expert Chat](https://learn.co/expert-chat) window. It shows you all questions for the batches that we support. If a question is in expert chat, we support that batch.
-- Optional: I would highly recommend installing [Nick's](https://github.com/NStephenson) Learn Expert [Chrome extension](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc). It allows you to track the messages that you're currently working on _and_ get better notifications when a question ends up in Requires Actions.
+- Go to the [Technical Coach Chat](https://learn.co/expert-chat) window. It shows you all questions for the batches that we support. If a question is in expert chat, we support that batch.
+- Optional: I would highly recommend installing [Nick's](https://github.com/NStephenson) Technical Coach [Chrome extension](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc). It allows you to track the messages that you're currently working on _and_ get better notifications when a question ends up in Requires Actions.
 - Ask previous shift (if there was one) how things went and to post a list of threads they're in the middle of and want to hand over
 - Introduce yourself on those threads and read the thread history so you're up to speed with the issue (let's not make students repeat themselves)
 - You'll see there are three categories of questions - requires action, active questions and inactive questions:
