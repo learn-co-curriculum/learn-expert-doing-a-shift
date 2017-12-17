@@ -44,13 +44,13 @@ The one on one support model is based around giving each student a small bit of 
 
 ### Dispatcher
 
-If this is the first shift of the day, the Coaches on will have to decide between them who the dispatcher is. You will then `qbot in dispatch` in the technical-coaches in slack. From there on out, the dispatcher is in charge of handing this roll off either sometime during their shift or at the end of their shift. 
+If this is the first shift of the day, the Coaches on will have to decide between them who the dispatcher is. You will then `qbot in dispatch` in the #technical-coaches channel. From there on out, the dispatcher is in charge of handing this roll off either sometime during their shift or at the end of their shift. 
 
 The Technical Coach on dispatch greets all incoming chats and gets some preliminary information on them. 
 
 If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to an coach.
 
-If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: "Would you be able to do a `20 minute screen share` with one of our other Technical Coaches? I think they could better help you with this through a screen share.". `Make sure to add 20 minute screen share when you ask the student if they want a screen share`, this lets them know that Technical Coaches are alloted 20 minutes per screen share.
+If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: "Would you be able to do a 20 minute screen share with one of our other Technical Coaches? I think they could better help you with this through a screen share.". **Make sure to add 20 minute screen share when you ask the student if they want a screen share**, this lets them know that Technical Coaches are alloted 20 minutes per screen share.
 
 Once the student lets you know that that would work for them, copy the question link by clicking on the clipboard:
 
