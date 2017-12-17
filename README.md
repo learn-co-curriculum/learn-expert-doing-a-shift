@@ -34,6 +34,13 @@ You might want to have these pages bookmarked for each shift:
 optionally you can install Nick's Chrome Extension for Tracking Questions:
 - [Chrome Extension](https://chrome.google.com/webstore/detail/le3/hjjhpafjpkkjbdchnaeikofponobhngc)
 
+## Categories of questions
+
+You'll see there are three categories of questions - requires action, active questions and inactive questions:
+  - **Requires Action** is any new question or any question where the student has responded and has been waiting > 15 mins for an coach response. These are top priority and we should keep it fairly empty. **If we see something in requires action, we want to move it out of there as fast as we can.**
+  - **Active Questions** is for questions where an coach and a student are actively chatting.
+  - **Inactive Questions** are questions where a student hasn't responded to an coach for at least 15 mins so you can ignore them until the student replies when they'll become active questions again.
+
 ## One on one support
 
 The one on one support model is based around giving each student a small bit of your time, but all of your attention. We accomplish this by having one Technical Coach on the shift act as dispatcher and the rest providing the one on one support. 
@@ -109,10 +116,6 @@ We do the standard shift on some holidays, if we don't have enough people to do 
 - Go to the [Expert Chat](https://learn.co/expert-chat) window. It shows you all questions for the batches that we support. If a question is in coach chat, we support that batch.
 - Ask previous shift (if there was one) how things went and to post a list of threads they're in the middle of and want to hand over
 - Introduce yourself on those threads and read the thread history so you're up to speed with the issue (let's not make students repeat themselves)
-- You'll see there are three categories of questions - requires action, active questions and inactive questions:
-  - **Requires Action** is any new question or any question where the student has responded and has been waiting > 15 mins for an coach response. These are top priority and we should keep it fairly empty. **If we see something in requires action, we want to move it out of there as fast as we can.**
-  - **Active Questions** is for questions where an coach and a student are actively chatting.
-  - **Inactive Questions** are questions where a student hasn't responded to an coach for at least 15 mins so you can ignore them until the student replies when they'll become active questions again.
 - Respond to every active question on every thread that isn't being helped by another member of staff. If you can, help them all. If not, let them know you're busy but will try to get back to them as quickly as you can. We get that more than 1-3 lively threads at a time is challenging - just do what you can and enjoy the process!
 - An active question is one where the OP (Original Poster) has made a comment that has not yet been responded to by a member of staff.
 
