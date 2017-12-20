@@ -2,7 +2,8 @@
 
 ## Scheduling
 
-- All times for scheduling are in EST time.
+- All times for scheduling are in EST time
+- The week is scheduled from Sunday to Saturday
 - We use WhenIWork for scheduling (you should already have gotten an email about signing up). You can use this site to set your preferred hours and request time off.
 - The schedule for Technical Coaches is sent out every Sunday for the following week. If you need any days off, book them *before* Friday.
 - As soon as you get your shifts, check them out and DM Ruth if they're not OK by Sunday night or Monday morning
@@ -55,23 +56,23 @@ If this is the first shift of the day, the Coaches on will have to decide betwee
 
 The Technical Coach on dispatch greets all incoming chats and gets some preliminary information on them. 
 
-If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to an coach.
+- If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to an coach.
 
-If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: "Would you be able to do a 20 minute screen share with one of our other Technical Coaches? I think they could better help you with this through a screen share.". **Make sure to add 20 minute screen share when you ask the student if they want a screen share**, this lets them know that Technical Coaches are alloted 20 minutes per screen share.
+- If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: "Would you be able to do a 20 minute screen share with one of our other Technical Coaches? I think they could better help you with this through a screen share.". **Make sure to add 20 minute screen share when you ask the student if they want a screen share**, this lets them know that Technical Coaches are alloted 20 minutes per screen share.
 
-Once the student lets you know that that would work for them, copy the question link by clicking on the clipboard:
+- Once the student lets you know that that would work for them, copy the question link by clicking on the clipboard:
 
 ![question link](https://s3.amazonaws.com/learn-experts/expert-chat-clipboard.png)
 
-And pasting to the technical-coaches channel to queue up the question for the next available coach on sync support.
+- And pasting to the technical-coaches channel to queue up the question for the next available coach on sync support.
 
-You will also want to keep track of the screen shares that the sync's are currently on. You can type `qbot who is on?`, which will give you who has a question, how long they've been on a screen share, and who is free. Make sure to do this periodically. At 15-18 minutes, you can type something like: "`@username 15 minute mark!`" which will send a notification to them letting them know they only have 5 minutes left. If they are past the 18 minute mark, you would type something like: "`@username 18 minutes! Please wrap up!`". We try to be fair to our students and give them all the same amount of attention.
+- You will also want to keep track of the screen shares that the sync's are currently on. You can type `qbot who is on?`, which will give you who has a question, how long they've been on a screen share, and who is free. Make sure to do this periodically. At 15-18 minutes, you can type something like: "`@username 15 minute mark!`" which will send a notification to them letting them know they only have 5 minutes left. If they are past the 18 minute mark, you would type something like: "`@username 18 minutes! Please wrap up!`". We try to be fair to our students and give them all the same amount of attention.
 
-If another student is genuinely being helpful to the OP, that's awesome. Encourage them and let everyone know you're there to help if they have problems/issues/questions.
+- If another student is genuinely being helpful to the OP, that's awesome. Encourage them and let everyone know you're there to help if they have problems/issues/questions.
 
-If you notice there are a lot of questions in expert chat, and the sync's are free of screen shares, make sure to keep them queue'd up. You can check the queue by typing `qbot q`. That way each student gets proper one on one support.
+- If you notice there are a lot of questions in expert chat, and the sync's are free of screen shares, make sure to keep them queue'd up. You can check the queue by typing `qbot q`. That way each student gets proper one on one support.
 
-If you queue a student and they have figured out the issue. You can `qbot resolve question_id`. You can find the question id by typing `qbot q` and you will see something like `https://learn.co//lessons/25366?batch_id=306&track_id=23144/&question_id=96994`. In this example you could type `qbot resolve 96994` in order to resolve the question. The question will then be resolved and removed from the queue.
+- If you queue a student and they have figured out the issue. You can `qbot resolve question_id`. You can find the question id by typing `qbot q` and you will see something like `https://learn.co//lessons/25366?batch_id=306&track_id=23144/&question_id=96994`. In this example you could type `qbot resolve 96994` in order to resolve the question. The question will then be resolved and removed from the queue.
 
 At 5 minutes before your shift ends, make sure to type "`@here dispatch available in 5 minutes`", in order to let the coaches coming in know that dispatch will be available and someone can grab dispatch. Once your shift is over, type `qbot out` in order to end your shift and mark your hours in workday.
 
@@ -83,15 +84,15 @@ Please make sure to already be familiar with the [screen share doc](https://gith
 
 Working within a time limit can be difficult and you won't be able to solve all problems in 15 minutes. That's OK. If you notice you're starting to come up on time, then try and leave off with the student in such a way that they have something that they can keep working on (e.g. "Try putting a `pry` here.", "Look into what the variable `index` equals in this method." "Take another look at this lesson on Rails Routes."...) and let them know if they still need a hand that they can hop back in the rotation for another screen share.
 
-If you feel the student needs more help, for example you were unable to find out what the issue was. Let the student know that you are out of time and would like a fresh pair of eyes to view their issue and ask them if you can place them back in the queue. Most students appreciate this and don't mind getting placed back in the queue. To place them back in the queue you can type `qbot more help` in the technical-coaches channel. Also let the student know after you added them back into queue that they were placed back in queue.
+- If you feel the student needs more help, for example you were unable to find out what the issue was. Let the student know that you are out of time and would like a fresh pair of eyes to view their issue and ask them if you can place them back in the queue. Most students appreciate this and don't mind getting placed back in the queue. To place them back in the queue you can type `qbot more help` in the technical-coaches channel. Also let the student know after you added them back into queue that they were placed back in queue.
 
-If you feel the student has been resolved, you can resolve the question you have with `qbot done`. It's also nice to leave them with a farewell in chat after you wrap up in a screen share. Also you can remind them to resolve the chat.
+- If you feel the student has been resolved, you can resolve the question you have with `qbot done`. It's also nice to leave them with a farewell in chat after you wrap up in a screen share. Also you can remind them to resolve the chat.
 
-If you respond to a student with a link, and they do not reply to you in 5 minutes, you will want to mark them `unresponsive` by typing in `qbot unresponsive`, this will place the question on hold for 5 minutes before assigning the question to the next available technical coach. If you are the technical coach that gets assigned an `unresponsive` question. If they have still not replied since the last link was given. You can `qbot unresponsive`. If you notice the question was responded to greater than 30 minutes, then you can `qbot done` the question in order to resolve.
+- If you respond to a student with a link, and they do not reply to you in 5 minutes, you will want to mark them `unresponsive` by typing in `qbot unresponsive`, this will place the question on hold for 5 minutes before assigning the question to the next available technical coach. If you are the technical coach that gets assigned an `unresponsive` question. If they have still not replied since the last link was given. You can `qbot unresponsive`. If you notice the question was responded to greater than 30 minutes, then you can `qbot done` the question in order to resolve.
 
-If you have no screen share, you will need to go through the `inactive questions` and mark any questions with a response of 12 hours or older resolved. Make sure to type to them something like: "Hello! It looks like this question has been inactive for over 12 hours and will be resolved. If you still need help please open a new question. We’ll be more than happy to help! Thanks!". They will recieve an email with that last response, so if they are looking for their chat, they know why it was resolved.
+- If you have no screen share, you will need to go through the `inactive questions` and mark any questions with a response of 10 hours or older resolved. Make sure to type to them something like: "Hello! It looks like this question has been inactive for over 10 hours and will be resolved. If you still need help please open a new question. We’ll be more than happy to help! Thanks!". They will recieve an email with that last response, so if they are looking for their chat, they know why it was resolved.
 
-If all the older inactive questions have been resolved and you still don't have a screen share. You will need to help the dispatch out. Pick a question to help out with, click the clipboard at the top as if you were going to queue up a question (see above image). Paste into technical-coaches chat, replace `queue` with `take`. The format should look like `qbot take <link>`. That will assign the question to you. Then you can help them in chat and ask if they would like a screen share.
+- If all the older inactive questions have been resolved and you still don't have a screen share. You will need to help the dispatch out. Pick a question to help out with, click the clipboard at the top as if you were going to queue up a question (see above image). Paste into technical-coaches chat, replace `queue` with `take`. The format should look like `qbot take <link>`. That will assign the question to you. Then you can help them in chat and ask if they would like a screen share.
 
 Make sure to keep an eye on your times and in slack if the dispatch tells you that you are close to time. You can send a dm in Flatiron Staff to `qbot`. And type `qbot who is on?` in order to see how long you have been on a screen share. If you get to around 18 minutes. Make sure to wrap up with the student. If they still need help make sure to `qbot more help` and follow the guidelines described above.
 
@@ -122,8 +123,13 @@ We do the standard shift on some holidays, if we don't have enough people to do 
 ## Ending a shift
 
 - Welcome the people taking over your shift (if any) in the #technical-coaches Slack channel.
-- If there isn't an coach taking over from you, let everyone you're chatting with or have chatted with during the shift that you're going off shift. Let them know that the next person should be on (whenever they should be on).
-- Post `@qbot out` into the learn-Coaches slack channel within Flatiron Staff
+- If there isn't a coach taking over from you, let everyone you're chatting with or have chatted with during the shift know that you're going off shift. Let them know that the next person should be on (whenever they should be on).
+- Post `@qbot out` into the #technical-coaches slack channel within Flatiron Staff
 - Please go on WorkDay and add your shift. 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-coach-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
+##### Video Examples of Screen Share Sessions
+- [video 1](#)
+- [video 2](#)
+- [video 3](#)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
