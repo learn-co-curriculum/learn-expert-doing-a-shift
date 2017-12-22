@@ -38,9 +38,9 @@ optionally you can install Nick's Chrome Extension for Tracking Questions:
 ## Categories of questions
 
 You'll see there are three categories of questions - requires action, active questions and inactive questions:
-  - **Requires Action** is any new question or any question where the student has responded and has been waiting > 15 mins for an coach response. These are top priority and we should keep it fairly empty. **If we see something in requires action, we want to move it out of there as fast as we can.**
-  - **Active Questions** is for questions where an coach and a student are actively chatting.
-  - **Inactive Questions** are questions where a student hasn't responded to an coach for at least 15 mins so you can ignore them until the student replies when they'll become active questions again.
+  - **Requires Action** is any new question or any question where the student has responded and has been waiting > 15 mins for a coach response. These are top priority and we should keep it fairly empty. **If we see something in requires action, we want to move it out of there as fast as we can.**
+  - **Active Questions** is for questions where a coach and a student are actively chatting.
+  - **Inactive Questions** are questions where a student hasn't responded to a coach for at least 15 mins so you can ignore them until the student replies when they'll become active questions again.
 
 ## One on one support
 
@@ -56,7 +56,7 @@ If this is the first shift of the day, the Coaches on will have to decide betwee
 
 The Technical Coach on dispatch greets all incoming chats and gets some preliminary information on them. 
 
-- If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to an coach.
+- If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to a coach.
 
 - If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: "Would you be able to do a 20 minute screen share with one of our other Technical Coaches? I think they could better help you with this through a screen share.". **Make sure to add 20 minute screen share when you ask the student if they want a screen share**, this lets them know that Technical Coaches are alloted 20 minutes per screen share.
 
