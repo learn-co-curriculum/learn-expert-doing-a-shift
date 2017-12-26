@@ -14,8 +14,8 @@
 
 There are two different types of shifts we are currently running:
 
-- [One on one support shift](#one-on-one-support) - One coach acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do 20 minute screen shares to the next available coach. 
-- [Standard shift](#standard-shift) - All Technical Coaches pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
+- [Standard Shift](#standard-shift) - One coach acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do 20 minute screen shares to the next available coach. 
+- [Chat only shift](#chat-only-shift) - All Technical Coaches pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
 
 We do standard shifts occasionally on holidays (because we don't have enough people to do one on one).
 
@@ -42,7 +42,7 @@ You'll see there are three categories of questions - requires action, active que
   - **Active Questions** is for questions where a coach and a student are actively chatting.
   - **Inactive Questions** are questions where a student hasn't responded to a coach for at least 15 mins so you can ignore them until the student replies when they'll become active questions again.
 
-## One on one support
+## Standard Shift
 
 The one on one support model is based around giving each student a small bit of your time, but all of your attention. We accomplish this by having one Technical Coach on the shift act as dispatcher and the rest providing the one on one support. 
 
@@ -76,6 +76,8 @@ The Technical Coach on dispatch greets all incoming chats and gets some prelimin
 
 At 5 minutes before your shift ends, make sure to type "`@here dispatch available in 5 minutes`", in order to let the coaches coming in know that dispatch will be available and someone can grab dispatch. Once your shift is over, type `qbot out` in order to end your shift and mark your hours in workday.
 
+**Do not resolve questions for students, only resolve questions that the last respond time the original poster made was 10 hours or more**
+
 ### Sync Support
 
 If you're not on Dispatch, then you'll be doing screen shares with students. Please keep each session with a student to **20 minutes** (I'd recommend blocking out 15min for the screen share itself, and 5min for the setup time). qBot will slack you when you have a chat. You can then start a Zoom meeting and send the student an invite link. Also when you say hi to them, you can @mention them when you introduce yourself. That way they get a notification if they have chat minimized, for example: "`Hey @enoch2k2! here's the link for our 20 minute screen share! https://zoom/2343252`" (not a real link).
@@ -108,9 +110,9 @@ If they have bad internet, you can do chat only support (no screenshare). It's a
 
 This will take you to their forked repository and you can get the url to clone their repo. This will allow you to debug with the student and you can see all their errors locally.
 
-## Standard Shift
+## Chat Only Shift
 
-We do the standard shift on some holidays, if we don't have enough people to do one on one support.
+We do the chat only shift on some holidays, if we don't have enough people to do one on one support.
 
 - Go into Flatiron Staff Slack - #technical-Coaches
 - Type `@qbot in sync` to let people know you're on and ready for your shift
@@ -128,8 +130,14 @@ We do the standard shift on some holidays, if we don't have enough people to do 
 - Please go on WorkDay and add your shift. 
 
 ##### Video Examples of Screen Share Sessions
-- [video 1](#)
-- [video 2](#)
-- [video 3](#)
+- [example 1](https://youtu.be/8d07IoGX7UQ)
+- [example 2](https://youtu.be/0Rege7kJoM8)
+- [example 3](https://youtu.be/MURwX6jUlRk)
+- [example 4](https://youtu.be/zzf-cd71-2U)
+- [example 5](https://youtu.be/aMZFyDrT0S4)
+- [example 6](https://youtu.be/oM1ge18NEZ8)
+- [example 7](https://youtu.be/q2WoFBdyXxI)
+- [example 8](https://youtu.be/FYsM3V5GMuE)
+- [example 9](https://youtu.be/EIUB8CmpsFU)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
