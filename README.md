@@ -84,7 +84,7 @@ At 5 minutes before your shift ends, make sure to type "`@here dispatch availabl
 
 ### Sync Support
 
-If you're not on Dispatch, then you'll be doing screen shares with students. Please keep each session with a student to **20 minutes** (I'd recommend blocking out 15min for the screen share itself, and 5min for the setup time). qBot will slack you when you have a chat. You can then start a Zoom meeting and send the student an invite link. Also when you say hi to them, you can @mention them when you introduce yourself. That way they get a notification if they have chat minimized, for example: "`Hey @enoch2k2! here's the link for our 20 minute screen share! https://zoom/2343252`" (not a real link).
+If you're not on Dispatch, then you'll be doing screen shares with students. Please keep each session with a student to **20 minutes** (I'd recommend blocking out 15min for the screen share itself, and 5min for the setup time). qBot will slack you when you have a chat. You can then start a Zoom meeting and send the student an invite link. Also when you say hi to them, you can @mention them when you introduce yourself. That way they get a notification if they have chat minimized, for example: "`Hey @enoch2k2! here's the link for our 20 minute pair programming session! https://zoom/2343252`" (not a real link).
 
 Please make sure to already be familiar with the [screen share doc](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md).
 
