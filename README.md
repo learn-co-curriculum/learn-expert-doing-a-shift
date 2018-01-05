@@ -58,7 +58,11 @@ The Technical Coach on dispatch greets all incoming chats and gets some prelimin
 
 - If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to a coach.
 
-- If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: `"Would you like to have a 20 minute pair programming session with a technical coach via screen share?"`. **Make sure to add 20 minute pair programming session when you ask the student if they want a screen share, this lets will get them used to the idea of pair programming with another developer**, this also lets them know that Technical Coaches are alloted 20 minutes per screen share.
+- If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: 
+```
+"Would you like to have a 20 minute pair programming session with a technical coach via screen share?"
+```
+**Make sure to add 20 minute pair programming session when you ask the student if they want a screen share, this lets will get them used to the idea of pair programming with another developer**, this also lets them know that Technical Coaches are alloted 20 minutes per screen share.
 
 - Once the student lets you know that that would work for them, copy the question link by clicking on the clipboard:
 
