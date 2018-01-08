@@ -58,7 +58,11 @@ The Technical Coach on dispatch greets all incoming chats and gets some prelimin
 
 - If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to a coach.
 
-- If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: "Would you be able to do a 20 minute screen share with one of our other Technical Coaches? I think they could better help you with this through a screen share.". **Make sure to add 20 minute screen share when you ask the student if they want a screen share**, this lets them know that Technical Coaches are alloted 20 minutes per screen share.
+- If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: 
+```
+"Would you like to pair program with a technical coach for 20 minutes?"
+```
+**Make sure to add pair program with a technical coach when you ask the student if they want a screen share, this lets will get them used to the idea of pair programming with another developer**, this also lets them know that Technical Coaches are alloted 20 minutes per screen share.
 
 - Once the student lets you know that that would work for them, copy the question link by clicking on the clipboard:
 
@@ -80,7 +84,7 @@ At 5 minutes before your shift ends, make sure to type "`@here dispatch availabl
 
 ### Sync Support
 
-If you're not on Dispatch, then you'll be doing screen shares with students. Please keep each session with a student to **20 minutes** (I'd recommend blocking out 15min for the screen share itself, and 5min for the setup time). qBot will slack you when you have a chat. You can then start a Zoom meeting and send the student an invite link. Also when you say hi to them, you can @mention them when you introduce yourself. That way they get a notification if they have chat minimized, for example: "`Hey @enoch2k2! here's the link for our 20 minute screen share! https://zoom/2343252`" (not a real link).
+If you're not on Dispatch, then you'll be doing screen shares with students. Please keep each session with a student to **20 minutes** (I'd recommend blocking out 15min for the screen share itself, and 5min for the setup time). qBot will slack you when you have a chat. You can then start a Zoom meeting and send the student an invite link. Also when you say hi to them, you can @mention them when you introduce yourself. That way they get a notification if they have chat minimized, for example: "`Hey @enoch2k2! you can join me here! https://zoom/2343252`" (not a real link).
 
 Please make sure to already be familiar with the [screen share doc](https://github.com/flatiron-labs/learn-support/blob/master/screen-sharing.md).
 
@@ -94,7 +98,7 @@ Working within a time limit can be difficult and you won't be able to solve all 
 
 - If you have no screen share, you will need to go through the `inactive questions` and mark any questions with a response of 10 hours or older resolved. Make sure to type to them something like: `"Hello! It looks like this question has been inactive for over 10 hours and will be resolved. If you still need help please open a new question. We’ll be more than happy to help! Thanks!"`. They will recieve an email with that last response, so if they are looking for their chat, they know why it was resolved.
 
-- If all the older inactive questions have been resolved and you still don't have a screen share. You will need to help the dispatch out. Pick a question to help out with, click the clipboard at the top as if you were going to queue up a question (see above image). Paste into technical-coaches chat, replace `queue` with `take`. The format should look like `qbot take <link>`. That will assign the question to you. Then you can help them in chat and ask if they would like a screen share.
+- If all the older inactive questions have been resolved and you still don't have a screen share. You will need to help the dispatch out. Pick a question to help out with, click the clipboard at the top as if you were going to queue up a question (see above image). Paste into technical-coaches chat, replace `queue` with `take`. The format should look like `qbot take <link>`. That will assign the question to you. Then you can help them in chat and ask if they would like a screen share. If you take a question make sure to ask them: `"Would you like to pair program for 20 minutes"`.
 
 Make sure to keep an eye on your times and in slack if the dispatch tells you that you are close to time. You can send a dm in Flatiron Staff to `qbot`. And type `qbot who is on?` in order to see how long you have been on a screen share. If you get to around 18 minutes. Make sure to wrap up with the student. If they still need help make sure to `qbot more help` and follow the guidelines described above.
 
