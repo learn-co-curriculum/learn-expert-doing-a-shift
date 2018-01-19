@@ -132,5 +132,6 @@ We do the chat only shift on some holidays, if we don't have enough people to do
 - If there isn't a coach taking over from you, let everyone you're chatting with or have chatted with during the shift know that you're going off shift. Let them know that the next person should be on (whenever they should be on).
 - Post `@qbot out` into the #technical-coaches slack channel within Flatiron Staff
 - Please go on WorkDay and add your shift.
+- Watch this [video](https://www.youtube.com/watch?v=3fvYOSw_HPA) for how to input hours on workday.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
