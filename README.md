@@ -131,17 +131,7 @@ We do the chat only shift on some holidays, if we don't have enough people to do
 - Welcome the people taking over your shift (if any) in the #technical-coaches Slack channel.
 - If there isn't a coach taking over from you, let everyone you're chatting with or have chatted with during the shift know that you're going off shift. Let them know that the next person should be on (whenever they should be on).
 - Post `@qbot out` into the #technical-coaches slack channel within Flatiron Staff
-- Please go on WorkDay and add your shift. 
-
-##### Video Examples of Screen Share Sessions
-- [example 1](https://youtu.be/8d07IoGX7UQ)
-- [example 2](https://youtu.be/0Rege7kJoM8)
-- [example 3](https://youtu.be/MURwX6jUlRk)
-- [example 4](https://youtu.be/zzf-cd71-2U)
-- [example 5](https://youtu.be/aMZFyDrT0S4)
-- [example 6](https://youtu.be/oM1ge18NEZ8)
-- [example 7](https://youtu.be/q2WoFBdyXxI)
-- [example 8](https://youtu.be/FYsM3V5GMuE)
-- [example 9](https://youtu.be/EIUB8CmpsFU)
+- Please go on WorkDay and add your shift.
+- Watch this [video](https://www.youtube.com/watch?v=3fvYOSw_HPA) for how to input hours on workday.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-doing-a-shift'>Doing a Shift</a> on Learn.co and start learning to code for free.</p>
