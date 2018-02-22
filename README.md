@@ -15,7 +15,7 @@
 There are two different types of shifts we are currently running:
 
 - [Standard Shift](#standard-shift) - One coach acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do 20 minute pair programming to the next available coach. 
-- [Chat only shift](#chat-only-shift) - All Technical Coaches pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
+- [Chat only shift](#chat-only-shift) - All Technical Coaches pick up questions as they come in and try and either help a few students at a time, or do pair programming when necessary. 
 
 We do chat only shifts occasionally on holidays (because we don't have enough people to do one on one).
 
