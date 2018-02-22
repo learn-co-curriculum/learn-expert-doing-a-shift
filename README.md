@@ -25,7 +25,7 @@ technical-coaches channel: this is where we can ask questions and chat as a grou
 
 escalation channel: You should not need to post directly into this channel. If you ever create an issue on Jira with a level of Blocking (more on this in later sections), it will automatically get posted here and you can watch any conversation around that.
 
-technical-coach-updates: This channel is used for viewing updates on any maintenance, bug fixes, ide updates, batch notices, etc... Do not chat in this channel as it is used only for viewing these changes.
+tc_updates: This channel is used for viewing updates on any maintenance, bug fixes, ide updates, batch notices, etc... Do not chat in this channel as it is used only for viewing these changes.
 
 ## Helpful Resources
 You might want to have these pages bookmarked for each shift:
