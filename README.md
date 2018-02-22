@@ -14,7 +14,7 @@
 
 There are two different types of shifts we are currently running:
 
-- [Standard Shift](#standard-shift) - One coach acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do 20 minute screen shares to the next available coach. 
+- [Standard Shift](#standard-shift) - One coach acts as dispatcher and takes in all incoming questions. They then hand out students that need support to do 20 minute pair programming to the next available coach. 
 - [Chat only shift](#chat-only-shift) - All Technical Coaches pick up questions as they come in and try and either help a few students at a time, or do screen shares when necessary. 
 
 We do chat only shifts occasionally on holidays (because we don't have enough people to do one on one).
@@ -58,11 +58,11 @@ The Technical Coach on dispatch greets all incoming chats and gets some prelimin
 
 - If the issue is a simple question with a discrete answer (e.g. "What's the difference between `#find` and `#detect` in ruby?"), you can feel free to just answer it and/or direct them to a resource (e.g. "They're the same thing :) As you can see here: https://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect they're used interchangeably."). Similarly, if the issue is solved by something in the [Help Center](http://help.learn.co/), link them to the doc before linking the student to a coach.
 
-- If it's clear that the student will need more than a link and a few short answers, set them up with a screen share by saying something like: 
+- If it's clear that the student will need more than a link and a few short answers, set them up to pair program by saying something like: 
 ```
 "Would you like to pair program with a technical coach for 20 minutes?"
 ```
-**Make sure to add pair program with a technical coach when you ask the student if they want a screen share, this lets will get them used to the idea of pair programming with another developer**, this also lets them know that Technical Coaches are alloted 20 minutes per screen share.
+**Make sure to add pair program (and not screen share) with a technical coach when you ask the student if they want to pair program, this lets will get them used to the idea of pair programming with another developer**, this also lets them know that Technical Coaches are alloted 20 minutes per pairing.
 
 - Once the student lets you know that that would work for them, copy the question link by clicking on the clipboard:
 
